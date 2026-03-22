@@ -1,0 +1,17 @@
+{
+  "name": "sunwin-api-wormgpt",
+  "version": "1.0.0",
+  "description": "Sunwin WebSocket API + Express Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ChienVan",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ws": "^8.17.0",
+    "network": "^0.6.1"
+  }
+}
